@@ -1,0 +1,29 @@
+
+h1{
+    text-align: center;
+}
+h2{
+  text-align: center;
+  padding:10px;
+}
+
+div.container{
+    background-image: url("/assets/img/burger-2041192_1280.jpg");
+}
+/* #add-burger{
+    background-image: url("/assets/img/burger-2041192_640.jpg");
+}
+#waiting{
+    background-image: url("/assets/img/hamburger-527393_640.jpg");
+}*/
+li.waiting{
+
+color: black;
+font-weight: bolder;
+font-size: 20px;
+}
+li.eaten{
+    color:black;
+    font-weight: bolder;
+    font-size: 20px;
+}
