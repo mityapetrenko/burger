@@ -12,6 +12,7 @@ A burger logger made with MySQL, Node, Express, Handlebars and an ORM
 *   Bootstrap
 
 ## Live App
+https://fancyburger.herokuapp.com/
 
 ## Screenshot
 ![Burger App](/assets/img/screenshot)
